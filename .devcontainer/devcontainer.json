@@ -47,11 +47,6 @@
                 "goOutliner.enableDebugChannel": true,
                 "editor.inlayHints.enabled": "offUnlessPressed",
                 "redhat.telemetry.enabled": true,
-                "vs-kubernetes": {
-                    "vscode-kubernetes.helm-path.windows": "C:\\Users\\chikahisa.mikata\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
-                    "vscode-kubernetes.helm-path.linux": "/home/mikata/.local/state/vs-kubernetes/tools/helm/linux-amd64/helm",
-                    "vscode-kubernetes.minikube-path.linux": "/home/mikata/.local/state/vs-kubernetes/tools/minikube/linux-amd64/minikube"
-                },
                 "git.suggestSmartCommit": false,
                 "githubPullRequests.queries": [
                     {
